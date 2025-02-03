@@ -1,4 +1,4 @@
-<h1 align=center>Flowing Tresses</h1>
+<h1 align=center>Tresses</h1>
 
 ## Experience
 Creating this piece in p5.js took forever but I am satisfied. It almost looks like my plan.
